@@ -1,6 +1,6 @@
 # Brackets-Rin
 
-<img src="img/cap1.jpg" alt="Brackets-Rin">
+<img src="img/cap.jpg" alt="Brackets-Rin">
 
 ## Overview（概要）
 
