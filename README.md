@@ -8,7 +8,7 @@
 
 "Brackets-Rin" is a customization theme plug-in that can be used with the source code editor "Brackets".
 
-I made ShizukaRin Virtual Liver belonging to Ichikara Inc. as a model, and the color of the editor screen chose a purple color close to the image color of the character.
+I made Shizuka Rin Virtual Liver belonging to Ichikara Inc. as a model, and the color of the editor screen chose a purple color close to the image color of the character.
 
 By the way, this theme is an informal theme.
 
